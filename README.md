@@ -7,7 +7,7 @@ Collar stays pop out with a little wiggling. Be careful when removing from print
 
 ![Collar stays popped out](https://github.com/reeserich/collar_stay_business_card/blob/main/img/popped_out.jpg)
 
-![Gcode slicing](https://github.com/reeserich/collar_stay_business_card/blob/main/img/slice.png)
+![Gcode slicing](https://github.com/reeserich/collar_stay_business_card/blob/main/img/slice.jpg)
 
 
 
