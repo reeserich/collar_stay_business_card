@@ -9,7 +9,5 @@ Also on [Printables](https://www.printables.com/model/244694-customizable-collar
 
 ![Collar stays popped out](https://github.com/reeserich/collar_stay_business_card/blob/main/img/popped_out.jpg)
 
-![Gcode slicing](https://github.com/reeserich/collar_stay_business_card/blob/main/img/slice.png)
-
 
 
